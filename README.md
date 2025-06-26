@@ -30,6 +30,8 @@ I love blending my background in bioinformatics with real-world tech — always 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine Learning-FF6C37?style=for-the-badge&logo=machinelearning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative AI-FF6C37?style=for-the-badge&logo=generativeai&logoColor=white" />
 </p>
 
 ---
